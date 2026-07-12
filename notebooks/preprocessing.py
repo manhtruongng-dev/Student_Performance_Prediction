@@ -10,8 +10,8 @@ def clean(df):
     return df
 def add_engineer(df):
     df = df.copy()
-    # df["study_per_absence"] = df["studytime"] / (df["absences"] + 1)
-    # df["failure_impact"] = df["failures"] * df["absences"]
+    df["study_per_absence"] = df["studytime"] / (df["absences"] + 1)
+    df["failure_impact"] = df["failures"] * df["absences"]
     # df['total_edu']=df['Medu']+df['Fedu']
     # df['total_alc'] = df['Dalc']+df['Walc']
     # df['G2_adjusted'] = df['G2']*(1-df['absences']/100)
@@ -43,7 +43,7 @@ def load_and_split(path):
         'G1', 'G2', 'failures', 'absences', 'higher', 'Medu', 'Fedu',
         'goout', 'traveltime', 'age', 'studytime',
         # 'study_per_absence', 'failure_impact'
-        # 'total_edu','total_alc'
+        'total_edu','total_alc'
         # 'G2_adjusted'
     ]
 
