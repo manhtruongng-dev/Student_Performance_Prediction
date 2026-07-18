@@ -224,3 +224,8 @@ frontend/build/
 frontend/.env
 frontend/.env.local
 frontend/*.log
+venv/
+__pycache__/
+*.pyc
+backend/predictions.db
+notebooks/wandb/
