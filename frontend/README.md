@@ -1,4 +1,4 @@
-# Frontend Phase 2
+# Frontend 
 
 React + Vite frontend kết nối FastAPI thật tại `http://127.0.0.1:8000`.
 
