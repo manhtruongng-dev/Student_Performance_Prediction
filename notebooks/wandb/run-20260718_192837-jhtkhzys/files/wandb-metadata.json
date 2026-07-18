@@ -1,0 +1,40 @@
+{
+  "os": "Windows-11-10.0.26200-SP0",
+  "python": "CPython 3.14.4",
+  "startedAt": "2026-07-18T12:28:37.704667Z",
+  "program": "c:\\Secret\\Student_Performance_Prediction\\notebooks\\03_Modeling_and_WandB.ipynb",
+  "codePath": "c:\\Secret\\Student_Performance_Prediction\\notebooks\\03_Modeling_and_WandB.ipynb",
+  "codePathLocal": "03_Modeling_and_WandB.ipynb",
+  "git": {
+    "remote": "https://github.com/2351050193truong-pixel/Student_Performance_Prediction.git",
+    "commit": "9ec951252ced1eb693d4369ff5a234cd22b94617"
+  },
+  "email": "maiithanhai@gmail.com",
+  "root": "c:\\Secret\\Student_Performance_Prediction\\notebooks",
+  "host": "hai_apr7",
+  "executable": "c:\\Secret\\Student_Performance_Prediction\\venv\\Scripts\\python.exe",
+  "cpu_count": 8,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA GeForce RTX 2050",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "510995197952",
+      "used": "184655081472"
+    }
+  },
+  "memory": {
+    "total": "16890322944"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 2050",
+      "memoryTotal": "4294967296",
+      "cudaCores": 2048,
+      "architecture": "Ampere",
+      "uuid": "GPU-ed0d104e-7a9f-35ef-776c-be844434d18d"
+    }
+  ],
+  "cudaVersion": "12.9",
+  "writerId": "7zcg54x9xggpj9nq9fur5xq2zaa4zleb"
+}

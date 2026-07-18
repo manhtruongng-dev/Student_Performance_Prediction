@@ -40,8 +40,7 @@ def load_and_split(path):
 
     df_clean = add_engineer(clean(df_raw))
     selected_features = [
-        'G1', 'G2', 'failures', 'absences', 'higher', 'Medu', 'Fedu',
-        'goout', 'traveltime', 'age', 'studytime',
+        'G1', 'G2', 'failures', 'age', 'traveltime', 'goout', 'studytime', 'Medu', 'Fedu',
         'study_per_absence', 'failure_impact'
         # 'total_edu','total_alc'
         # 'G2_adjusted'
