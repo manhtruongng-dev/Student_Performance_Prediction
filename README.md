@@ -159,7 +159,7 @@ G1, G2, failures, age, traveltime, goout, studytime, Medu, Fedu, absences
 - Cortez, P., & Silva, A. (2008). *Using Data Mining to Predict Secondary School Student Performance*.
 - Cortez, P. (2014). [Student Performance Data Set](https://archive.ics.uci.edu/dataset/320/student+performance). UCI ML Repository.
 - Pedregosa, F. và cộng sự (2011). *Scikit-learn: Machine Learning in Python*. JMLR 12.
-
+- Link video demo: https://drive.google.com/file/d/1pG6bD7MeIuQuPSFg8R_yCl5NKc89OQXY/view?usp=sharing
 ---
 
 
