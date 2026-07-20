@@ -1,11 +1,4 @@
 # Student Performance Prediction
-
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)]()
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688)]()
-[![React](https://img.shields.io/badge/Frontend-React%2018-61DAFB)]()
-[![scikit--learn](https://img.shields.io/badge/ML-scikit--learn-F7931E)]()
-[![W&B](https://img.shields.io/badge/Tracking-Weights%20%26%20Biases-FFBE00)]()
-
 ---
 
 ## Giới thiệu
